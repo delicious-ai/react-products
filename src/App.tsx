@@ -17,7 +17,10 @@ function App() {
     >
       <Box>
         <img src={logo} className="App-logo" alt="logo" />
-        <Typography sx={{ marginTop: 8, color: "white" }} variant="h5">
+        <Typography
+          sx={{ marginTop: 8, color: "white", textAlign: "center" }}
+          variant="h5"
+        >
           Follow the instruction in the Instructions.md file
         </Typography>
       </Box>
