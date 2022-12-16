@@ -2,9 +2,9 @@
 
 ## Intro
 
-The goal of this is to test your capabilities with the React framework as well as to evaluate some key development workflow processes common in the software development community. You will be making two pages with some simple features. You will use MaterialUI for all the base components you will need. If you have not used it, it is ok, we will provide some hints and you can use their documentation found here: https://mui.com/material-ui/getting-started/overview/ You will also be implementing one unit test.
+The goal of this is to test your capabilities with the React framework as well as to evaluate some key development practices. You will be making two pages with some simple features. You will use MaterialUI for all the base components you will need. If you have not used it, it is ok, we will provide some hints and you can use their documentation found here: https://mui.com/material-ui/getting-started/overview/ You will also be implementing one unit test.
 
-We are excited for you to do this project and see what you make! Please let us know if you have any questions. This should take around an hour to complete.
+We are excited for you see what you make! Please let us know if you have any questions. This should take a couple hours to complete.
 
 ## Steps
 
@@ -52,7 +52,17 @@ Please create a unit test to test something you think would be valuable to test.
 
 ### Notes
 
-- There are no directories in this project. Please organize your code how you see fit.
+- There are few directories in this project. Please organize your code how you see fit.
 - To look at the designs in figma go [here](https://www.figma.com/file/P9GmyoEWk2O7kGM6AuKB0o/Product-Page-Concept?node-id=0%3A1&t=ILoZZFrw14ajd3TF-1)
 - You do not need to implement any functionality for the "Upload new product photo" button
 - Please make sure it is responsive as seen in the designs
+- For navigation, use [react-router-dom](https://github.com/remix-run/react-router#readme)
+
+### MaterialUI hints
+
+- for the product tile use [Card](https://mui.com/material-ui/react-card/#outlined-card)
+- for icons see [here](https://mui.com/material-ui/material-icons/)
+- for text inputs see [TextField](https://mui.com/material-ui/material-icons/)
+- for select input see [Select](https://mui.com/material-ui/react-select/)
+- for headers and text use [Typography](https://mui.com/material-ui/react-typography/)
+- for responsive layout see [Grid](https://mui.com/material-ui/react-grid/#responsive-values)
