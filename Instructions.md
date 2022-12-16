@@ -18,7 +18,7 @@ We are excited for you to do this project and see what you make! Please let us k
 
 ### Page 1 /products
 
-The purpose of this page is to search for a product, look at it's details and then edit them. Use the `products.ts` file to initialize your list of products. The page should show the products like so:
+The purpose of this page is to search for a product, look at it's details and then edit them. Use the `constants/products.ts` file to initialize your list of products. The page should show the products like so:
 
 The search will search on all properties of the products and filter the list down.
 

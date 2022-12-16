@@ -1,25 +1,27 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import { Box, Typography } from "@mui/material";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <Box
+      sx={{
+        display: "flex",
+        flexDirection: "column",
+        height: "100vh",
+        backgroundColor: "#282c34",
+        alignItems: "center",
+        justifyContent: "center",
+      }}
+    >
+      <Box>
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+        <Typography sx={{ marginTop: 8, color: "white" }} variant="h5">
+          Follow the instruction in the Instructions.md file
+        </Typography>
+      </Box>
+    </Box>
   );
 }
 
