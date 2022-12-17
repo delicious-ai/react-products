@@ -4,7 +4,7 @@
 
 The goal of this is to test your capabilities with the React framework as well as to evaluate some key development practices. You will be making two pages with some simple features. You will use MaterialUI for all the base components you will need. If you have not used it, it is ok, we will provide some hints and you can use their documentation found here: https://mui.com/material-ui/getting-started/overview/ You will also be implementing one unit test.
 
-We are excited for you see what you make! Please let us know if you have any questions. This should take a couple hours to complete.
+We are excited to see what you make! Please let us know if you have any questions. This should take a couple hours to complete.
 
 ## Steps
 
