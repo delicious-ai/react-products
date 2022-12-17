@@ -52,7 +52,7 @@ Please create a unit test to test something you think would be valuable to test.
 
 ### Notes
 
-- There are few directories in this project. Please organize your code how you see fit.
+- There are a few directories in this project. Please organize your code how you see fit.
 - To look at the designs in figma go [here](https://www.figma.com/file/P9GmyoEWk2O7kGM6AuKB0o/Product-Page-Concept?node-id=0%3A1&t=ILoZZFrw14ajd3TF-1)
 - You do not need to implement any functionality for the "Upload new product photo" button
 - Please make sure it is responsive as seen in the designs
@@ -66,3 +66,4 @@ Please create a unit test to test something you think would be valuable to test.
 - for select input see [Select](https://mui.com/material-ui/react-select/)
 - for headers and text use [Typography](https://mui.com/material-ui/react-typography/)
 - for responsive layout see [Grid](https://mui.com/material-ui/react-grid/#responsive-values)
+- for categories use [Chip](https://mui.com/material-ui/react-chip/)
